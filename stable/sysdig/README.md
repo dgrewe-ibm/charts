@@ -246,3 +246,5 @@ And deploy the Chart with both of them:
 $ helm install --name my-release -f custom-app-checks.yaml -f values.yaml stable/sysdig
 ```
 
+### Support
+For support, please go to https://sysdig.com/support.

@@ -9,6 +9,11 @@ keywords:
   - metric
   - troubleshooting
   - run-time
+  - amd64
+  - Analytics
+  - Security
+  - Commercial
+  - ICP
 home: https://www.sysdig.com/
 icon: https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Shovel_600px.png
 sources:
@@ -21,3 +26,5 @@ maintainers:
     email: jorge.salamero@sysdig.com
   - name: nestorsalceda
     email: nestor.salceda@sysdig.com
+tillerVersion: ">=2.7.2"
+kubeVersion: '>=1.11.0'
